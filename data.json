@@ -1,0 +1,56 @@
+
+{
+    "chart_title": "Magical Creature Power Levels",
+    "data_points": [
+        {
+            "label": "Mermaid",
+            "value": 10,
+            "type": "Water"
+        },
+        {
+            "label": "Dragon",
+            "value": 5,
+            "type": "Land"
+        },
+        {
+            "label": "Unicorn",
+            "value": 9,
+            "type": "Land"
+        },
+        {
+            "label": "Banshee",
+            "value": 6,
+            "type": "Shadows"
+        },
+        {
+            "label": "Fairy",
+            "value": 3,
+            "type": "Land"
+        },
+        {
+            "label": "Selkie",
+            "value": 6,
+            "type": "Water"
+        },
+        {
+            "label": "Kelpie",
+            "value": 8,
+            "type": "Water"
+        },
+        {
+            "label": "Naiad",
+            "value": 7,
+            "type": "Water"
+        },
+        {
+            "label": "Siren",
+            "value": 9,
+            "type": "Water"
+        },
+        {
+            "label": "Vampire",
+            "value": 4,
+            "type": "Shadows"
+        }
+    ]
+}
